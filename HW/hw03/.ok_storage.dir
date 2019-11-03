@@ -1,0 +1,4 @@
+'pingpong-correct', (0, 70)
+'num_sevens-correct', (512, 70)
+'count_change-correct', (1024, 70)
+'flatten-correct', (1536, 70)
